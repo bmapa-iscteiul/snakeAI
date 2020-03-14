@@ -2,6 +2,7 @@
 A snake AI using NEAT 
 
 Libraries:
+
     - pygame
     - random
     - math
